@@ -1,14 +1,14 @@
 # 💫 About Me:
-Hey there! I’m **Aditya**, a passionate and curious **CSE undergrad specializing in Artificial Intelligence and Machine Learning** at **Chandigarh University**. I love blending the power of technology with creativity to solve real-world problems and build impactful digital experiences.<br><br>
+Hey there! I’m **Aditya**, a curious and driven **Data Analyst** with a background in **CSE (AI & ML)** at Chandigarh University. I enjoy turning raw data into meaningful insights and building impactful, data-driven solutions.<br><br>
 
-🚀 I’m a budding **Full-Stack Web Developer**, currently crafting dynamic web apps and experimenting with **AI-driven tools** to make life simpler — especially in the finance and productivity space. I enjoy working across the entire stack, from crafting clean, interactive front-ends to architecting scalable, robust backends.<br><br>
+🚀 Alongside analytics, I work as a **Full-Stack Web Developer** and actively explore **AI and Cloud technologies** to create scalable and intelligent applications. I like combining data, logic, and creativity to solve real-world problems.<br><br>
 
-🔭 I’m currently working on AI-based personal finance management tools and smart web apps that merge creativity with functionality.<br>
-🤝 I’m looking to collaborate on full-stack web development projects, open-source AI tools, and anything involving cloud technologies.<br>
-💛 I’m looking for help with advanced backend development and scalable architecture for production-ready systems.<br>
-🌱 I’m currently learning Java with DSA, SQL, and exploring UI/UX design using Framer to create more engaging user experiences.<br>
-💬 Ask me about web development, cloud computing, generative AI, or anything in the CSE-AIML domain—I'm always up for a tech chat!<br>
-⚡ Fun fact: I often start projects just for fun and end up turning them into fully working apps (plus, I have a soft spot for dark mode themes 🌑).<br>
+🔭 I’m currently working on data-driven projects, including dashboards and analytics solutions, along with AI-based web applications.<br>
+🤝 I’m looking to collaborate on **data analytics projects**, **web development**, and **AI/cloud-based solutions**.<br>
+💛 I’m looking for help with advanced analytics, backend systems, and scalable architectures.<br>
+🌱 I’m currently learning **Java (DSA)**, **SQL**, and improving my skills in **Power BI & data analysis**.<br>
+💬 Ask me about **data analytics, dashboards, web development, cloud, or AI**—always happy to connect!<br>
+⚡ Fun fact: I often start projects just for fun and end up turning them into fully working products (and yes, I love dark mode 🌑).<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aditya.verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-verma-aa8178288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaverma5069@gmail.com) 
